@@ -11,7 +11,6 @@ My name is Diana 👩🏻‍💻 and I am transitioning my career from Front End
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=dianatduong
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dianatduong)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianatduong)](https://github.com/anuraghazra/github-readme-stats)
