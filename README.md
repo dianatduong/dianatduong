@@ -7,7 +7,7 @@
 Thanks for stopping by! 
 <br>
 
-My name is Diana 👩🏻‍💻 and I am transitioning my career from Front End Web Developer to iOS Mobile Engineer. Here you will see a glimpse of my journey into the exciting world of iOS development (P.S. I love it here 😊). I am deeply committed to crafting and implementing digital solutions that address real-world challenges. My keen attention to detail, coupled with my ability to empathize with users, allows me to create user-centric designs and experiences.
+My name is Diana 👩🏻‍💻 and I am transitioning my career from Front End Web Developer to iOS Mobile Engineer. Here you will see a glimpse of my journey into the exciting world of iOS development (P.S. I love it here 😊). I am deeply committed to crafting and implementing digital solutions that address real-world challenges. My attention to detail combined with my ability to empathize with users, allows me to create user-centric designs and experiences.
 
 ### :fire: My Stats :
 
