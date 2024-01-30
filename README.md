@@ -14,3 +14,7 @@ My name is Diana 👩🏻‍💻 and I am transitioning my career from Front End
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianatduong)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+
+<img src="https://komarev.com/ghpvc/?username=dianatduong&style=flat-square&color=blue" alt=""/>
