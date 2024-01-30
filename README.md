@@ -23,7 +23,7 @@ Thanks for stopping by!
 
 <br>
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dianatduong)](https://git.io/streak-stats)
 
