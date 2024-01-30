@@ -18,7 +18,7 @@ Thanks for stopping by!
 
 #### iOS Apps I'm working on:  🚧
 
-- 🥾 **Hike Haven (UIKit)** - A hiking trail search app for hiking enthusiasts focused on providing essential information pre-adventure
+- 🥾 **Hike Haven (UIKit)** - A hiking trail search app focused on providing essential information pre-adventure
 - 🏠 **KodeHause (SwiftUI)**  - A project-sharing app for tech enthusiasts with a non-technical background
 
 
