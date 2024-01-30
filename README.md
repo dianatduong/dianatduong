@@ -8,13 +8,18 @@ Thanks for stopping by!
 <br>
 
 **My name is Diana and I am an aspiring iOS Engineer** 👩🏻‍💻
-<br>
-In 2023, I made a bold career pivot from Web development to iOS! Here you will see a glimpse into my exciting journey into the world of iOS development (P.S. I love it here 😊)
+<br>🦎 In 2023, I made a bold career pivot from Web development to iOS! 
+<br>Here you will see a glimpse into my exciting journey into the world of iOS development (P.S. I love it here 😊)
 
-A few things about me:
-- I am passionate about creating digital solutions that address real-world challenges
-- I possess a strong empathetic ability that enables me to deliver user experiences that are human-centered
-- In my free time, I find joy in traveling, playing pickleball, and dog-sitting for others through Rover 🥰
+#### A few things about me:
+- 🕵🏻‍♀️ I am passionate about creating digital solutions that address real-world challenges
+- 🧘🏻‍♀️ I possess a strong empathetic ability that enables me to deliver user experiences that are human-centered
+- 🥰 In my free time, I find joy in traveling, playing pickleball, and dog-sitting for others through Rover 
+
+#### iOS Apps I'm working on:  🚧
+
+- 🥾 **Hike Haven (UIKit)** - A hiking trail search app for hiking enthusiasts focused on providing essential information pre-adventure
+- 🏠 **KodeHause (SwiftUI)**  - A project-sharing app for tech enthusiasts with a non-technical background
 
 
 ### :fire: My Stats :
