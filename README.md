@@ -14,7 +14,9 @@ My name is Diana and I am an aspiring iOS Engineer 👩🏻‍💻
 - I possess a strong empathetic ability that enables me to deliver user experiences that are human-centered
 - In my free time, I find joy in traveling, playing pickleball, and dog-sitting for others through Rover 🥰
 <br>
+
 ### :fire: My Stats :
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianatduong)](https://github.com/anuraghazra/github-readme-stats)
 
 
