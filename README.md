@@ -8,8 +8,7 @@ Thanks for stopping by!
 <br>
 
 **My name is Diana and I am an aspiring iOS Engineer** 👩🏻‍💻
-<br>🦎 In 2023, I made a bold career pivot from Web development to iOS! 
-<br>Here you will see a glimpse into my exciting journey into the world of iOS development (P.S. I love it here 😊)
+<br>🦎 In 2023, I made a bold career pivot from Web development to iOS! Here you will see a glimpse into my exciting journey into the world of iOS development (P.S. I love it here 😊)
 
 #### A few things about me:
 - 🕵🏻‍♀️ I am passionate about creating digital solutions that address real-world challenges
