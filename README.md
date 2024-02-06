@@ -17,8 +17,9 @@ Thanks for stopping by!
 
 #### iOS Apps I'm working on:  🚧
 
-- 🥾 <a href="https://github.com/dianatduong/Hike-Haven">**Hike Haven (UIKit)**</a> - A hiking trail search app focused on providing essential information pre-adventure
 - 🏠 <a href="https://github.com/dianatduong/KodeHaus">**KodeHaus (SwiftUI)**</a>  - A project-sharing app for non-tech professionals transitioning into the tech industry
+- 🥾 <a href="https://github.com/dianatduong/Hike-Haven">**Hike Haven (UIKit)**</a> - A hiking trail search app focused on providing essential information pre-adventure
+
 <br>
 
 ## :fire: My Stats :
